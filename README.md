@@ -1,0 +1,1 @@
+Hergün Türkiye Saati ile 15:00'da usom ana listesinden ilgili domain ve ip adresleri çekilerek ayrı dosyalara yazılır, Sophos gibi donanımlar domain ve ip'leri ayrı listelerden çekmek ister bunun için kullanabilirsiniz.
