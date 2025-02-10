@@ -1,6 +1,2 @@
-basvuruformuolusturma-gov-tr.mb-amp.site
-pttavm.alisverissistemi.com.tr
-zraastfgirssisi.duckdns.org
-webserver-yaduytwb-reallverbal.4everland.app
-zraathizligiris.duckdns.org
-sahibnden.ilan-siparis.com
+https://basvuruformuolusturma-gov-tr.mb-amp.site
+http://pttavm.alisverissistemi.com.tr
